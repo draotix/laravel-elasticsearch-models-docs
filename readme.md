@@ -1,0 +1,1 @@
+# Laravel elasticsearch models documentation
